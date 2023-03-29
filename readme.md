@@ -1,5 +1,7 @@
 # Docker 101 🐳
 
+_By Léonard Flachs_
+
 Hey there, this is a repository to learn Docker.
 
 🚧 This repo is a Work in Progress. 🚧
